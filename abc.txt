@@ -1,1 +1,9 @@
-hii i am suraj 
+git init
+git add .
+git commit -m "msg"
+git branch -M main
+git remote add origin https://github.com/gauravaundkar017/Linux.git
+git remote set-url origin https://(token)@github.com/gauravaundkar017/linux-scripting.git
+git push origin main
+
+git push set-url https://tokenhttps://(token)@github.com/gauravaundkar017/linux-scripting.git
